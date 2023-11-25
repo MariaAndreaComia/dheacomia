@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariaAndreaComia
+- 👋 Hi, I’m @dheacomia
 - 👀 I’m interested in programming (specifically with the programming languages such as C++, HTML, CSS, and Visual Basic), graphic designing, and data entry...
 - Technical Skills:  Knowledgeable about programming languages such as HTML, CSS, C++, Visual Basic and C#
 - Database: XAMPP, MySQL, SQL Server, and MS Access
